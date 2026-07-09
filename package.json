@@ -1,0 +1,14 @@
+{
+  "name": "hillbot",
+  "version": "1.0.0",
+  "description": "Fall Guys map submission bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "tmi.js": "^1.8.5"
+  }
+}
